@@ -1,0 +1,13 @@
+{
+    "presets": ["env", "react", "es2015", "stage-0"],
+    "plugins": [
+        "react-hot-loader/babel",
+        "transform-class-properties",
+        "transform-object-rest-spread",
+        "syntax-dynamic-import",
+        "transform-decorators-legacy",
+        "syntax-jsx",
+        "transform-export-default",
+        "transform-react-jsx"
+    ]
+}

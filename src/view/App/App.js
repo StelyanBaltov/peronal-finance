@@ -1,11 +1,5 @@
 import React, { Component } from "react";
-import {
-    Switch,
-    Route,
-    Redirect,
-    Router,
-    Link
-} from "react-router-dom";
+import { Switch, Route } from "react-router-dom";
 import styles from './styles.css';
 import { connect } from "react-redux";
 import { hot } from "react-hot-loader";
